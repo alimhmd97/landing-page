@@ -1,0 +1,11 @@
+ btn- primary  #FC3B7E;
+purple : #884BDF;
+a883e9;
+
+gradient: #5F55EA,#9646DB;
+text: #AFAEB3
+
+playstore ixon #42415F;
+price footer :#706988;
+
+footer bg : #F5F8FD;
